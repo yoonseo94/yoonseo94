@@ -31,7 +31,7 @@
 </p>
 
 
-<br>
+<br/><br/>
 <a href="https://yoon-workspaces.notion.site/KH-STUDY-251ccb5da5dd45b69ecdfd9060735661"><img src="https://img.shields.io/badge/notion-ffffff?style=flat-plastic&logo=notion&logoColor=black"/></a>
 
 <br>
